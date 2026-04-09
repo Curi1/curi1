@@ -1,7 +1,7 @@
 
 <h2> Hi, I'm Matheus Curi! <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="50"></h2>
 <img align='right' src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="230">
-<p><em>Software Enginner at <a href="https://ucb.catolica.edu.br">Catholic university of Brasilia</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer at <a href="https://www.trf1.jus.br/">TRF1</a> and <a href="https://www.directd.com.br">DIRECT DATA</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<p><em>Software Enginner at <a href="https://ucb.catolica.edu.br">Catholic university of Brasilia</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer at <a href="https://www.facilite.co/">FACILITE</a> and <a href="https://www.directd.com.br">SYNTROPIA LAB</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
 ### Connect with me:
